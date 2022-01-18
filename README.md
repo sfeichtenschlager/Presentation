@@ -1,6 +1,6 @@
 # Presentation
 
-This website is supposed to be a small presentation via rejeal.js.
+This website is supposed to be a small presentation via reveal.js.
 
 ## Links
 
